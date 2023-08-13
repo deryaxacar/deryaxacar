@@ -18,5 +18,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deryaxacar&" alt="deryaxacar" /></p>
 
+<p> <img align="center" src="https://raw.githubusercontent.com/deryaxacar/deryaxacar.github.io/dc4417c2e26ecdf1e1033b936c394dd8d907b3b5/img/svg.svg" alt="deryaxacar" /> </p>
+
 ![snake gif](https://github.com/deryaxacar/deryaxacar/blob/output/github-contribution-grid-snake.gif)
 
