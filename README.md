@@ -1,5 +1,4 @@
 
-<h3 align="center">❤ Derya Acar ❤ </h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=deryaxacar&label=Profile%20views&color=0e75b6&style=flat" alt="deryaxacar" /> </p>
 
 <h3 align="left">Sosyal Media :</h3>
