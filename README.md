@@ -34,7 +34,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deryaxacar&show_icons=true&locale=en" alt="deryaxacar" /> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deryaxacar&" alt="deryaxacar" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img align="center" src="https://raw.githubusercontent.com/deryaxacar/deryaxacar.github.io/dc4417c2e26ecdf1e1033b936c394dd8d907b3b5/img/svg.svg" alt="deryaxacar" />
