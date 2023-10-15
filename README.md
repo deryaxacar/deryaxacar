@@ -29,10 +29,11 @@
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40 "/></a> 
 <a href="https://github.com/404">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deryaxacar&show_icons=true&locale=en&layout=compact" alt="deryaxacar" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deryaxacar&show_icons=true&locale=en" alt="deryaxacar" /> 
+[![Derya Acar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=deryaxacar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Derya Acar's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=deryaxacar&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
