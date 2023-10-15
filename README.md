@@ -2,7 +2,8 @@
 <p align="left">
 <a href="https://twitter.com/deryaxacarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deryaxacarr" height="30" width="40" /></a>
 <a href="https://instagram.com/derryacr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="derryacr" height="30" width="40" /></a>
-</p> 
+<a href="https://www.linkedin.com/in/derya-acar-aa5533230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deryaxacar" height="30" width="40" /></a>
+</p>
 
 <h3 align="left"> 👨‍💻 Diller ve Araçlar :</h3>
 <p>
