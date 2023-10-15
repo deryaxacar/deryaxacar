@@ -22,7 +22,6 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a> 
 <a href=" https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5 -original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web /JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank " rel="noreferrer"> 
@@ -33,8 +32,6 @@
 [![Derya Acar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=deryaxacar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Derya Acar's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=deryaxacar&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img align="center" src="https://raw.githubusercontent.com/deryaxacar/deryaxacar.github.io/dc4417c2e26ecdf1e1033b936c394dd8d907b3b5/img/svg.svg" alt="deryaxacar" />
