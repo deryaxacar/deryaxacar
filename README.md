@@ -1,3 +1,5 @@
+<img align="right" src="https://i.hizliresim.com/eazh7lo.png" height="200" width="200" />
+
 <h3 align="left">Sosyal Media :</h3>
 <p align="left">
 <a href="https://twitter.com/deryaxacarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deryaxacarr" height="30" width="40" /></a>
@@ -24,7 +26,7 @@
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <picture>
 <source srcset="https://github-readme-stats.vercel.app/api?username=deryaxacar&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
