@@ -1,4 +1,4 @@
-<img align="right" src="https://i.hizliresim.com/eazh7lo.png" height="200" width="200" />
+<a href="https://deryacar.cf/" target="blank"> <img align="right" src="https://i.hizliresim.com/eazh7lo.png" height="200" width="200" /></a>
 
 <h3 align="left">Sosyal Media :</h3>
 <p align="left">
