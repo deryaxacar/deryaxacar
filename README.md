@@ -39,7 +39,7 @@
 <img align="center" src="https://raw.githubusercontent.com/deryaxacar/deryaxacar.github.io/dc4417c2e26ecdf1e1033b936c394dd8d907b3b5/img/svg.svg" alt="deryaxacar" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=deryaxacar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Derya Acar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deryaxacar&theme=merko)](https://github.com/deryaxacar/github-readme-activity-graph)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![snake gif](https://github.com/deryaxacar/deryaxacar/blob/output/github-contribution-grid-snake.gif)
