@@ -1,12 +1,42 @@
 <a href="https://deryacar.cf/" target="blank"> <img align="right" src="https://i.hizliresim.com/eazh7lo.png" height="200" width="200" /></a>
 
 <h3 align="left">Sosyal Media :</h3>
-<p align="left">
-<a href="https://twitter.com/deryaxacarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deryaxacarr" height="30" width="40" /></a>
-<a href="https://instagram.com/derryacr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="derryacr" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/derya-acar-aa5533230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deryaxacar" height="30" width="40" /></a>
-</p>
-
+</br>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/derya-acar-aa5533230/">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/deryaxacar/deryaxacar/blob/main/social/linkedin.png?raw=true">
+        <img src="https://github.com/deryaxacar/deryaxacar/blob/main/social/linkedin..light.png?raw=true" width="42" height="42">
+    </picture>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/people/Derya-Acar/pfbid02Mjij3PsnvX1XmzwCi5pJwYfXYVYXSA7AmPUYgXv4TyiYDi37daW8XC3oBD5YP4nHl/">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/deryaxacar/deryaxacar/blob/main/social/facebook.png?raw=true">
+        <img src="https://github.com/deryaxacar/deryaxacar/blob/main/social/facebook..light.png?raw=true" width="42" height="42">
+    </picture>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.comderyaxacarr">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/deryaxacar/deryaxacar/blob/main/social/twitter.png?raw=true">
+        <img src="https://github.com/deryaxacar/deryaxacar/blob/main/social/twitter.light.png?raw=true" width="42" height="42">
+    </picture>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@jgphilpott">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/deryaxacar/deryaxacar/blob/main/social/youtube.png?raw=true">
+        <img src="https://github.com/deryaxacar/deryaxacar/blob/main/social/youtube..light.png?raw=true" width="42" height="42">
+    </picture>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.gmail.com/derya41acar@gmail.com">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/deryaxacar/deryaxacar/blob/main/social/email.png?raw=true">
+        <img src="https://github.com/deryaxacar/deryaxacar/blob/main/social/email..light.png?raw=true" width="42" height="42">
+    </picture>
+</a>
 <h3 align="left"> 👨‍💻 Diller ve Araçlar :</h3>
 <p>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
