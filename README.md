@@ -1,6 +1,6 @@
 <a href="https://deryacar.cf/" target="blank"> <img align="right" src="https://i.hizliresim.com/eazh7lo.png" height="200" width="200" /></a>
 
-<h3 align="left">╰┈➤ Sᴏꜱʏᴀʟ Mᴇᴅɪᴀ :</h3>
+<h3 align="left">╰┈➤ Sᴏꜱʏᴀʟ Mᴇᴅʏᴀ :</h3>
 </br>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/derya-acar-aa5533230/">
