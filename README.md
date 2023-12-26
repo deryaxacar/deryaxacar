@@ -52,22 +52,16 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+    
+| ![Derya Acar's GitHub stats](https://github-readme-stats.vercel.app/api?username=deryaxacar&theme=dark&show_icons=true&include_all_commits=false&count_private=true&layout=compact) | ![Derya Acar's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deryaxacar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) |
+|:-:|:-:|
 
-<picture>
-<source srcset="https://github-readme-stats.vercel.app/api?username=deryaxacar&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
-<source srcset="https://github-readme-stats.vercel.app/api?username=deryaxacar&show_icons=true&theme=dark" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-<img src="https://github-readme-stats.vercel.app/api?username=deryaxacar&show_icons=true" />
-</picture>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<img align="center" src="https://raw.githubusercontent.com/deryaxacar/deryaxacar.github.io/dc4417c2e26ecdf1e1033b936c394dd8d907b3b5/img/svg.svg" alt="deryaxacar" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 [![Derya Acar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deryaxacar&theme=merko)](https://github.com/deryaxacar/github-readme-activity-graph)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-![snake gif](https://github.com/deryaxacar/deryaxacar/blob/output/github-contribution-grid-snake.gif)
 
 
 
