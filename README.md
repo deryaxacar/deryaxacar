@@ -63,7 +63,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
     
-| ![Derya Acar's GitHub stats](https://github-readme-stats.vercel.app/api?username=deryaxacar&theme=dark&show_icons=true&include_all_commits=false&count_private=true&layout=compact) | ![Derya Acar's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deryaxacar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) |
+| ![Derya Acar's GitHub stats](https://github-readme-stats.vercel.app/api?username=deryaxacar&theme=dark&show_icons=true&include_all_commits=false&count_private=true&layout=compact&border_radius=0) | ![Derya Acar's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deryaxacar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&border_radius=0) |
 |:-:|:-:|
 
 </div>
