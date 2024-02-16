@@ -1,6 +1,6 @@
 <a href="#" target="blank"> <img align="right" src="https://i.hizliresim.com/eazh7lo.png" height="200" width="200" /></a>
 
-<h3 align="left">╰┈➤ Sᴏꜱʏᴀʟ Mᴇᴅʏᴀ :</h3>
+<h3 align="left">💻 Sᴏꜱʏᴀʟ Mᴇᴅʏᴀ :</h3>
 </br>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/derya-acar-aa5533230/">
@@ -37,7 +37,7 @@
         <img src="https://github.com/deryaxacar/deryaxacar/blob/main/social/email..light.png?raw=true" width="42" height="42">
     </picture>
 </a>
-<h3 align="left"> ╰┈➤ Dɪʟʟᴇʀ Vᴇ Aʀᴀᴄ̧ʟᴀʀ:</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=20 height=20> Dɪʟʟᴇʀ Vᴇ Aʀᴀᴄ̧ʟᴀʀ:</h3>
 <p>
 <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-525DE9.svg?logo=c-in-hexagon&logoColor=white"></a>
 <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-525DE9.svg?logo=cs2&logoColor=white"></a>
