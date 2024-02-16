@@ -52,6 +52,7 @@
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-525DE9.svg?logo=visual-studio-code&logoColor=white&style=flat"></a>
 <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-525DE9.svg?logo=discord&logoColor=white&style=flat"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-525DE9.svg?logo=git&logoColor=white&style=flat"></a>
+<a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-525DE9.svg?logo=vim&logoColor=white&style=flat"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
