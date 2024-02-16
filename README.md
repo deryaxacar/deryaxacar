@@ -56,7 +56,8 @@
 <a href="#"><img alt="Asp.Net" src="https://custom-icon-badges.demolab.com/badge/Asp.net-525DE9.svg?logo=.net&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-525DE9.svg?logo=visual-studio-code&logoColor=white&style=flat"></a>
 <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-525DE9.svg?logo=visual-studio&logoColor=white&style=flat"></a>
-<a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-525DE9.svg?logo=discord&logoColor=white&style=flat"></a>
+<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-525DE9.svg?logo=discord&logoColor=white&style=flat"></a>
+<a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-525DE9.svg?logo=canva&logoColor=white&style=flat"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
