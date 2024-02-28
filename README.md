@@ -48,7 +48,7 @@
 <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-525DE9.svg?logo=vim&logoColor=white&style=flat"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-525DE9.svg?logo=ubuntu&logoColor=white&style=flat"></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-525DE9.svg?logo=linux&logoColor=white&style=flat"></a>
-</a>
+<a href="#"><img alt="Word" src="https://img.shields.io/badge/Word-525DE9.svg?logo=microsoft-word&logoColor=white&style=flat"></a>
 </p> 
 <p>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-525DE9.svg?logo=github&logoColor=white"></a>
