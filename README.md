@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=525DE9&center=true&width=1000&lines=Hello+World!;)](https://github.com/deryaxacar)
+
 <a href="#" target="blank"> <img align="right" src="https://i.hizliresim.com/eazh7lo.png" height="200" width="200" /></a>
 
 <h3 align="left">💻 Sᴏꜱʏᴀʟ Mᴇᴅʏᴀ :</h3>
