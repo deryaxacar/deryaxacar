@@ -1,9 +1,11 @@
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=525DE9&center=true&vCenter=true&width=1000&lines=Derya+Acar's,+GitHub;Hello,+world!" alt="Typing SVG" /> 
 -->
+<!-- img -->
 <a href="#" target="blank"> <img align="right" src="https://i.hizliresim.com/eazh7lo.png" height="200" width="200" /></a>
 
-<h3 align="left">💻 Sᴏꜱʏᴀʟ Mᴇᴅʏᴀ :</h3>
-</br>
+<!-- social -->
+<h3 align="left">💻 Social Media :</h3></br>
+
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/derya-acar-aa5533230/">
     <picture>
@@ -39,32 +41,36 @@
         <img src="https://github.com/deryaxacar/deryaxacar/blob/main/social/email..light.png?raw=true" width="42" height="42">
     </picture>
 </a>
-<h3 align="left"><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=20 height=20> Dɪʟʟᴇʀ Vᴇ Aʀᴀᴄ̧ʟᴀʀ:</h3>
-<p>
-<a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-434d58.svg?logo=c-in-hexagon&logoColor=white"></a>
-<a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-434d58.svg?logo=cs2&logoColor=white"></a>
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-434d58.svg?logo=html5&logoColor=white"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-434d58.svg?logo=css3&logoColor=white"></a>
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-434d58.svg?logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-434d58.svg?logo=git&logoColor=white&style=flat"></a>
-<a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-434d58.svg?logo=vim&logoColor=white&style=flat"></a>
-<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-434d58.svg?logo=ubuntu&logoColor=white&style=flat"></a>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-434d58.svg?logo=linux&logoColor=white&style=flat"></a>
-<a href="#"><img alt="Word" src="https://img.shields.io/badge/Word-434d58.svg?logo=microsoft-word&logoColor=white&style=flat"></a>
-</p> 
-<p>
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-434d58.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-434d58.svg?logo=database&logoColor=white"></a>
-<a href="#"><img alt="Asp.Net" src="https://custom-icon-badges.demolab.com/badge/Asp.net-434d58.svg?logo=.net&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-434d58.svg?logo=visual-studio-code&logoColor=white&style=flat"></a>
-<a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-434d58.svg?logo=visual-studio&logoColor=white&style=flat"></a>
-<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-434d58.svg?logo=discord&logoColor=white&style=flat"></a>
-<a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-434d58.svg?logo=canva&logoColor=white&style=flat"></a>
-</p>
-<!-- color -- 525DE9-->
+<!-- Languages and Tools -->
+<h3 align="left"><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=20 height=20> Languages And Tools :</h3>
 
+<p>
+    <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-434d58.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-434d58.svg?logo=cs2&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-434d58.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-434d58.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-434d58.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-434d58.svg?logo=git&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-434d58.svg?logo=vim&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-434d58.svg?logo=ubuntu&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-434d58.svg?logo=linux&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Word" src="https://img.shields.io/badge/Word-434d58.svg?logo=microsoft-word&logoColor=white&style=flat"></a>
+</p>
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-434d58.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-434d58.svg?logo=database&logoColor=white"></a>
+    <a href="#"><img alt="Asp.Net" src="https://custom-icon-badges.demolab.com/badge/Asp.net-434d58.svg?logo=.net&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-434d58.svg?logo=visual-studio-code&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-434d58.svg?logo=visual-studio&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-434d58.svg?logo=discord&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-434d58.svg?logo=canva&logoColor=white&style=flat"></a>
+</p> <!-- color -- 525DE9-->
+
+<!-- gif -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- github stats-->
 <div align="center">
   <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=deryaxacar&theme=dark&show_icons=true&icon_color=fff&include_all_commits=false&count_private=true&layout=compact&border_radius=0" style="height:185px;">
@@ -74,6 +80,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 [![Derya Acar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deryaxacar&theme=merko&line=434d58)](https://github.com/deryaxacar/github-readme-activity-graph)
+
+<!-- gif -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--
