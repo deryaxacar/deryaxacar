@@ -67,8 +67,8 @@
 
 <div align="center">
   <div style="display: flex;">
-      <img src="https://github-readme-stats.vercel.app/api?username=deryaxacar&theme=dark&show_icons=true&icon_color=fff&include_all_commits=false&count_private=true&layout=compact&border_radius=0">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deryaxacar&theme=dark&hide_border=false&icon_color=434d58&card_width=347px&include_all_commits=false&count_private=true&layout=compact&border_radius=0" style="height:188px;">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=deryaxacar&theme=dark&show_icons=true&icon_color=fff&include_all_commits=false&count_private=true&layout=compact&border_radius=0">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deryaxacar&theme=dark&hide_border=false&icon_color=434d58&card_width=347px&include_all_commits=false&count_private=true&layout=compact&border_radius=0" style="height:188px;">
   </div>
 </div>
 
