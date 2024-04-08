@@ -67,6 +67,8 @@
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-434d58.svg?logo=canva&logoColor=white&style=flat"></a>
 </p> <!-- color -- 525DE9-->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <!-- Proje Logoları -->
 <h2 align="center">Completed Project Logos - 42 Ecole </h2>
 
@@ -80,8 +82,6 @@
   <img src="https://i.hizliresim.com/51fltai.png" alt="Proje 7 Logo" width="90"/>
   <img src="https://i.hizliresim.com/xtvqc35.png" alt="Proje 8 Logo" width="90"/>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!-- gif -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
