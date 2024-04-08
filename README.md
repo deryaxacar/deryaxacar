@@ -77,13 +77,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deryaxacar&theme=dark&hide_border=false&icon_color=434d58&include_all_commits=false&count_private=true&layout=compact&border_radius=0" style="height:185px;">
   </div>
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-[![Derya Acar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deryaxacar&theme=merko&line=434d58)](https://github.com/deryaxacar/github-readme-activity-graph)
-
-<!-- gif -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <!-- Proje Logoları -->
 <h2 align="center">Completed Project Logos - 42 Ecole </h2>
 
@@ -97,7 +91,13 @@
   <img src="https://i.hizliresim.com/51fltai.png" alt="Proje 7 Logo" width="90"/>
   <img src="https://i.hizliresim.com/xtvqc35.png" alt="Proje 8 Logo" width="90"/>
 </p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+[![Derya Acar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deryaxacar&theme=merko&line=434d58)](https://github.com/deryaxacar/github-readme-activity-graph)
+
+<!-- gif -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <!--
 <div align="center">
 <br><p align="center"><b>Counter</b></p>
