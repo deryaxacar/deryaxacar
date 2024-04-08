@@ -1,7 +1,7 @@
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=525DE9&center=true&vCenter=true&width=1000&lines=Derya+Acar's,+GitHub;Hello,+world!" alt="Typing SVG" /> 
 -->
 <!-- img -->
-<a href="#" target="blank"> <img align="right" src="https://i.hizliresim.com/eazh7lo.png" height="200" width="200" /></a>
+<a href="#" target="blank"> <img align="right" src="https://i.hizliresim.com/eazh7lo.png" width="200" /></a>
 
 <!-- social -->
 <h3 align="left">💻 Social Media :</h3></br>
@@ -84,6 +84,20 @@
 <!-- gif -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<!-- Proje Logoları -->
+<h2 align="center">42 - Ecole Proje Logoları</h2>
+
+<p align="center">
+  <img src="https://i.hizliresim.com/ffa3w9y.png" alt="Proje 1 Logo" width="90"/>
+  <img src="https://i.hizliresim.com/fyw0r12.png" alt="Proje 2 Logo" width="90"/>
+  <img src="https://i.hizliresim.com/pjpsbji.png" alt="Proje 3 Logo" width="90"/>
+  <img src="https://i.hizliresim.com/cn47lop.png" alt="Proje 4 Logo" width="90"/>
+  <img src="https://i.hizliresim.com/pkbv0xv.png" alt="Proje 5 Logo" width="90"/>
+  <img src="https://i.hizliresim.com/kjz5yie.png" alt="Proje 6 Logo" width="90"/>
+  <img src="https://i.hizliresim.com/51fltai.png" alt="Proje 7 Logo" width="90"/>
+  <img src="https://i.hizliresim.com/xtvqc35.png" alt="Proje 8 Logo" width="90"/>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!--
 <div align="center">
 <br><p align="center"><b>Counter</b></p>
