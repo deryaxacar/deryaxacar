@@ -85,7 +85,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!-- Proje Logoları -->
-<h2 align="center">42 - Ecole - Completed Project Logos</h2>
+<h2 align="center">Completed Project Logos - 42 Ecole </h2>
 
 <p align="center">
   <img src="https://i.hizliresim.com/ffa3w9y.png" alt="Proje 1 Logo" width="90"/>
