@@ -94,6 +94,7 @@
   <img src="https://i.hizliresim.com/kjz5yie.png" alt="Proje 6 Logo" width="90"/>
   <img src="https://i.hizliresim.com/51fltai.png" alt="Proje 7 Logo" width="90"/>
   <img src="https://i.hizliresim.com/xtvqc35.png" alt="Proje 8 Logo" width="90"/>
+  <img src="https://i.hizliresim.com/sx4d620.png" alt="Proje 9 Logo" width="90"/>
 </p>
 
 <!-- gif -->
