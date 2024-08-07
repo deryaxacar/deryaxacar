@@ -28,7 +28,7 @@
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@jgphilpott">
+<a href="https://www.youtube.com">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/deryaxacar/deryaxacar/blob/main/social/youtube.png?raw=true">
         <img src="https://github.com/deryaxacar/deryaxacar/blob/main/social/youtube..light.png?raw=true" width="42" height="42">
