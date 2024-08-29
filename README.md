@@ -87,7 +87,7 @@
 <p align="center">
   <img src="https://i.hizliresim.com/ffa3w9y.png" alt="Proje 1 Logo" width="90"/>
   <img src="https://i.hizliresim.com/fyw0r12.png" alt="Proje 2 Logo" width="90"/>
-  <img src="https://i.hizliresim.com/pjpsbji.png" alt="Proje 3 Logo" width="90"/>
+  <img src="https://i.hizliresim.com/3ci3mgi.png" alt="Proje 3 Logo" width="90"/>
   <img src="https://i.hizliresim.com/cn47lop.png" alt="Proje 4 Logo" width="90"/>
   <img src="https://i.hizliresim.com/pkbv0xv.png" alt="Proje 5 Logo" width="90"/>
   <img src="https://i.hizliresim.com/kjz5yie.png" alt="Proje 6 Logo" width="90"/>
