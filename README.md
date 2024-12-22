@@ -46,6 +46,7 @@
 
 <p>
     <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-434d58.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="#"><img alt="Cpp" src="https://custom-icon-badges.demolab.com/badge/C++-434d58.svg?logo=cpp-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-434d58.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-434d58.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-434d58.svg?logo=bootstrap&logoColor=white"></a>
