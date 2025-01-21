@@ -83,7 +83,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<!-- Proje Logoları -->
+<!-- Proje Logoları 
 <h2 align="center">Completed Project Logos - 42 Ecole </h2>
 
 <p align="center">
@@ -100,10 +100,8 @@
   <img src="https://i.hizliresim.com/lc3txl2.png?_gl=1*1ia0uuv*_ga*MTg2MDIyNTgxMC4xNzM0ODc2OTYy*_ga_M9ZRXYS2YN*MTczNDg3Njk2MS4xLjEuMTczNDg3Njk3Ny40NC4wLjA." alt="Proje 11 Logo" width="70"/>
 </p>
 
-<!-- gif -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<!--
 <div align="center">
 <br><p align="center"><b>Counter</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{deryaxacar}/count.svg" /></p> 
