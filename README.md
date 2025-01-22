@@ -82,28 +82,3 @@
 [![Derya Acar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deryaxacar&theme=merko&line=434d58)](https://github.com/deryaxacar/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<!-- Proje Logoları 
-<h2 align="center">Completed Project Logos - 42 Ecole </h2>
-
-<p align="center">
-  <img src="https://i.hizliresim.com/ffa3w9y.png" alt="Proje 01 Logo" width="70"/>
-  <img src="https://i.hizliresim.com/fyw0r12.png" alt="Proje 02 Logo" width="70"/>
-  <img src="https://i.hizliresim.com/3ci3mgi.png" alt="Proje 03 Logo" width="70"/>
-  <img src="https://i.hizliresim.com/cn47lop.png" alt="Proje 04 Logo" width="70"/>
-  <img src="https://i.hizliresim.com/pkbv0xv.png" alt="Proje 05 Logo" width="70"/>
-  <img src="https://i.hizliresim.com/kjz5yie.png" alt="Proje 06 Logo" width="70"/>
-  <img src="https://i.hizliresim.com/51fltai.png" alt="Proje 07 Logo" width="70"/>
-  <img src="https://i.hizliresim.com/xtvqc35.png" alt="Proje 08 Logo" width="70"/>
-  <img src="https://i.hizliresim.com/sx4d620.png" alt="Proje 09 Logo" width="70"/>
-  <img src="https://i.hizliresim.com/kxgq44e.png" alt="Proje 10 Logo" width="70"/>
-  <img src="https://i.hizliresim.com/lc3txl2.png?_gl=1*1ia0uuv*_ga*MTg2MDIyNTgxMC4xNzM0ODc2OTYy*_ga_M9ZRXYS2YN*MTczNDg3Njk2MS4xLjEuMTczNDg3Njk3Ny40NC4wLjA." alt="Proje 11 Logo" width="70"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<div align="center">
-<br><p align="center"><b>Counter</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{deryaxacar}/count.svg" /></p> 
-</div>
--->
