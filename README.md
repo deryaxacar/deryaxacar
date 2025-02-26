@@ -1,8 +1,9 @@
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=525DE9&center=true&vCenter=true&width=1000&lines=Derya+Acar's,+GitHub;Hello,+world!" alt="Typing SVG" /> 
 -->
-<!-- img -->
+<!-- img 
 <a href="#" target="blank"> <img align="right" src="https://i.hizliresim.com/eazh7lo.png" width="200" /></a>
-
+ -->
+ 
 <!-- social -->
 <h3 align="left">💻 Social Media :</h3></br>
 
