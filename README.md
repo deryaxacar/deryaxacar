@@ -54,7 +54,6 @@
     <a href="https://tailwindcss.com"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-434d58.svg?logo=tailwindcss&logoColor=white"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-434d58.svg?logo=ubuntu&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-434d58.svg?logo=linux&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Word" src="https://img.shields.io/badge/Word-434d58.svg?logo=microsoft-word&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-434d58.svg?logo=markdown&logoColor=white&style=flat"></a>
 </p>
 
