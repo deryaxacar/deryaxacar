@@ -52,7 +52,6 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-434d58.svg?logo=css3&logoColor=white"></a>
     <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-434d58.svg?logo=bootstrap&logoColor=white"></a>
     <a href="https://tailwindcss.com"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-434d58.svg?logo=tailwindcss&logoColor=white"></a>
-    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-434d58.svg?logo=vim&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-434d58.svg?logo=ubuntu&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-434d58.svg?logo=linux&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Word" src="https://img.shields.io/badge/Word-434d58.svg?logo=microsoft-word&logoColor=white&style=flat"></a>
@@ -68,6 +67,16 @@
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-434d58.svg?logo=discord&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-434d58.svg?logo=canva&logoColor=white&style=flat"></a>
 </p> <!-- color -- 525DE9-->
+
+
+<!-- 
+href="https://tailwindcss.com"
+href="https://bulma.io"
+href="https://materializecss.com"
+href="https://getuikit.com"
+href="https://picocss.com"
+href="https://picturepan2.github.io/spectre"
+-->
 
 <!-- gif -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
