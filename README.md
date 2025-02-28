@@ -76,6 +76,8 @@ href="https://materializecss.com"
 href="https://getuikit.com"
 href="https://picocss.com"
 href="https://picturepan2.github.io/spectre"
+href="https://vuejs.org"
+href="https://alpinejs.dev"
 -->
 
 <!-- gif -->
