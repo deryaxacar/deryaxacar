@@ -47,23 +47,21 @@
 
 <p>
     <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-434d58.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="Cpp" src="https://custom-icon-badges.demolab.com/badge/Cpp-434d58.svg?logo=cpp-in-hexagon&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-434d58.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-434d58.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-434d58.svg?logo=css3&logoColor=white"></a>
-    <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-434d58.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-434d58.svg?logo=ubuntu&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-434d58.svg?logo=linux&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-434d58.svg?logo=markdown&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-434d58.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-434d58.svg?logo=tailwindcss&logoColor=white"></a>
+    <a href="#"><img alt="Asp.Net" src="https://custom-icon-badges.demolab.com/badge/Asp.net-434d58.svg?logo=.net&logoColor=white"></a>
 </p>
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-434d58.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-434d58.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="Asp.Net" src="https://custom-icon-badges.demolab.com/badge/Asp.net-434d58.svg?logo=.net&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-434d58.svg?logo=visual-studio-code&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-434d58.svg?logo=visual-studio&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-434d58.svg?logo=discord&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-434d58.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-434d58.svg?logo=canva&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-434d58.svg?logo=markdown&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-434d58.svg?logo=ubuntu&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-434d58.svg?logo=linux&logoColor=white&style=flat"></a>
 </p> <!-- color -- 525DE9-->
 
 
