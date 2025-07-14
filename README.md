@@ -46,30 +46,34 @@
 <h3 align="left"><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=20 height=20> Languages And Tools :</h3>
 
 <p>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-434d58.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-434d58.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-434d58.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-434d58.svg?logo=css&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-434d58.svg?logo=php&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-434d58.svg?logo=javascript&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-434d58.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-434d58.svg?logo=tailwindcss&logoColor=white"></a>
-    <a href="#"><img alt="Asp.Net" src="https://custom-icon-badges.demolab.com/badge/Asp.net-434d58.svg?logo=.net&logoColor=white"></a>
+ <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-434d58.svg?logo=c-in-hexagon&logoColor=white"></a>
+ <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-434d58.svg?logo=c-in-hexagon&logoColor=white"></a>
+ <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-434d58.svg?logo=php&logoColor=white"></a>
+ <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-434d58.svg?logo=javascript&logoColor=white"></a>
+ <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-434d58.svg?logo=markdown&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-434d58.svg?logo=html5&logoColor=white"></a>
+ <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-434d58.svg?logo=css&logoColor=white"></a>
+ <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-434d58.svg?logo=bootstrap&logoColor=white"></a>
+ <a href="#"><img alt="tailwindcss" src="https://img.shields.io/badge/TailwindCSS-434d58.svg?logo=tailwindcss&logoColor=white"></a>
+ <a href="#"><img alt="GoogleFonts" src="https://img.shields.io/badge/GoogleFonts-434d58.svg?logo=googlefonts&logoColor=white"></a>
+ <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-434d58.svg?logo=canva&logoColor=white&style=flat"></a>
 </p>
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-434d58.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-434d58.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-434d58.svg?logo=canva&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-434d58.svg?logo=markdown&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-434d58.svg?logo=ubuntu&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-434d58.svg?logo=linux&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-434d58.svg?logo=docker&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="nginx" src="https://img.shields.io/badge/Nginx-434d58.svg?logo=nginx&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="VMWare" src="https://img.shields.io/badge/VMware-434d58.svg?logo=vmware&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/XAMPP-434d58.svg?logo=xampp&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="wordpress" src="https://img.shields.io/badge/WordPress-434d58.svg?logo=wordpress&logoColor=white&style=flat"></a>
-</p> <!-- color -- 525DE9-->
+ <a href="#"><img alt="Asp.Net" src="https://custom-icon-badges.demolab.com/badge/Asp.net-434d58.svg?logo=.net&logoColor=white"></a>
+ <a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-434d58.svg?logo=database&logoColor=white"></a>
+ <a href="#"><img alt="MariaDB" src="https://custom-icon-badges.demolab.com/badge/MariaDB-434d58.svg?logo=mariadb&logoColor=white"></a>
+ <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/XAMPP-434d58.svg?logo=xampp&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-434d58.svg?logo=docker&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="nginx" src="https://img.shields.io/badge/Nginx-434d58.svg?logo=nginx&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="VMWare" src="https://img.shields.io/badge/VMware-434d58.svg?logo=vmware&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-434d58.svg?logo=ubuntu&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-434d58.svg?logo=linux&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-434d58.svg?logo=github&logoColor=white"></a>
+ <a href="#"><img alt="wordpress" src="https://img.shields.io/badge/WordPress-434d58.svg?logo=wordpress&logoColor=white&style=flat"></a>
+</p>
+
+<!-- color -- 525DE9-->
 
 
 <!-- 
