@@ -67,6 +67,7 @@
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-434d58.svg?logo=docker&logoColor=white&style=flat"></a>
     <a href="#"><img alt="nginx" src="https://img.shields.io/badge/Nginx-434d58.svg?logo=nginx&logoColor=white&style=flat"></a>
     <a href="#"><img alt="VMWare" src="https://img.shields.io/badge/VMware-434d58.svg?logo=vmware&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/XAMPP-434d58.svg?logo=xampp&logoColor=white&style=flat"></a>
     <a href="#"><img alt="wordpress" src="https://img.shields.io/badge/WordPress-434d58.svg?logo=wordpress&logoColor=white&style=flat"></a>
 </p> <!-- color -- 525DE9-->
 
