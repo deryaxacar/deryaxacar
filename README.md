@@ -57,9 +57,6 @@
  <a href="#"><img alt="tailwindcss" src="https://img.shields.io/badge/TailwindCSS-434d58.svg?logo=tailwindcss&logoColor=white"></a>
  <a href="#"><img alt="GoogleFonts" src="https://img.shields.io/badge/GoogleFonts-434d58.svg?logo=googlefonts&logoColor=white"></a>
  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-434d58.svg?logo=canva&logoColor=white&style=flat"></a>
-</p>
-
-<p>
  <a href="#"><img alt="Asp.Net" src="https://custom-icon-badges.demolab.com/badge/Asp.net-434d58.svg?logo=.net&logoColor=white"></a>
  <a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-434d58.svg?logo=database&logoColor=white"></a>
  <a href="#"><img alt="MariaDB" src="https://custom-icon-badges.demolab.com/badge/MariaDB-434d58.svg?logo=mariadb&logoColor=white"></a>
