@@ -61,6 +61,7 @@
  <a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-434d58.svg?logo=database&logoColor=white"></a>
  <a href="#"><img alt="MariaDB" src="https://custom-icon-badges.demolab.com/badge/MariaDB-434d58.svg?logo=mariadb&logoColor=white"></a>
  <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/XAMPP-434d58.svg?logo=xampp&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="FileZilla" src="https://custom-icon-badges.demolab.com/badge/FileZilla-434d58.svg?logo=filezilla&logoColor=white"></a>
  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-434d58.svg?logo=docker&logoColor=white&style=flat"></a>
  <a href="#"><img alt="nginx" src="https://img.shields.io/badge/Nginx-434d58.svg?logo=nginx&logoColor=white&style=flat"></a>
  <a href="#"><img alt="VMWare" src="https://img.shields.io/badge/VMware-434d58.svg?logo=vmware&logoColor=white&style=flat"></a>
