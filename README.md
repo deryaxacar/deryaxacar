@@ -54,22 +54,24 @@
  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-434d58.svg?logo=html5&logoColor=white"></a>
  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-434d58.svg?logo=css&logoColor=white"></a>
  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-434d58.svg?logo=bootstrap&logoColor=white"></a>
- <a href="#"><img alt="tailwindcss" src="https://img.shields.io/badge/TailwindCSS-434d58.svg?logo=tailwindcss&logoColor=white"></a>
+ <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-434d58.svg?logo=tailwindcss&logoColor=white"></a>
+ <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-434d58.svg?logo=vercel&logoColor=white&style=flat"></a>
  <a href="#"><img alt="GoogleFonts" src="https://img.shields.io/badge/GoogleFonts-434d58.svg?logo=googlefonts&logoColor=white"></a>
  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-434d58.svg?logo=canva&logoColor=white&style=flat"></a>
  <a href="#"><img alt="Asp.Net" src="https://custom-icon-badges.demolab.com/badge/Asp.net-434d58.svg?logo=.net&logoColor=white"></a>
+ 
  <a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-434d58.svg?logo=database&logoColor=white"></a>
  <a href="#"><img alt="MariaDB" src="https://custom-icon-badges.demolab.com/badge/MariaDB-434d58.svg?logo=mariadb&logoColor=white"></a>
  <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/XAMPP-434d58.svg?logo=xampp&logoColor=white&style=flat"></a>
  <a href="#"><img alt="FileZilla" src="https://custom-icon-badges.demolab.com/badge/FileZilla-434d58.svg?logo=filezilla&logoColor=white"></a>
  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-434d58.svg?logo=docker&logoColor=white&style=flat"></a>
- <a href="#"><img alt="nginx" src="https://img.shields.io/badge/Nginx-434d58.svg?logo=nginx&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-434d58.svg?logo=nginx&logoColor=white&style=flat"></a>
  <a href="#"><img alt="VMWare" src="https://img.shields.io/badge/VMware-434d58.svg?logo=vmware&logoColor=white&style=flat"></a>
  <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-434d58.svg?logo=virtualbox&logoColor=white&style=flat"></a>
  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-434d58.svg?logo=ubuntu&logoColor=white&style=flat"></a>
  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-434d58.svg?logo=linux&logoColor=white&style=flat"></a>
  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-434d58.svg?logo=github&logoColor=white"></a>
- <a href="#"><img alt="wordpress" src="https://img.shields.io/badge/WordPress-434d58.svg?logo=wordpress&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-434d58.svg?logo=wordpress&logoColor=white&style=flat"></a>
 </p>
 
 <!-- color -- 525DE9-->
@@ -101,3 +103,4 @@ href="https://alpinejs.dev"
 [![Derya Acar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deryaxacar&theme=merko&line=434d58)](https://github.com/deryaxacar/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
