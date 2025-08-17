@@ -55,7 +55,6 @@
  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-434d58.svg?logo=css&logoColor=white"></a>
  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-434d58.svg?logo=bootstrap&logoColor=white"></a>
  <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-434d58.svg?logo=tailwindcss&logoColor=white"></a>
- <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-434d58.svg?logo=vercel&logoColor=white&style=flat"></a>
  <a href="#"><img alt="GoogleFonts" src="https://img.shields.io/badge/GoogleFonts-434d58.svg?logo=googlefonts&logoColor=white"></a>
  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-434d58.svg?logo=canva&logoColor=white&style=flat"></a>
  <a href="#"><img alt="Asp.Net" src="https://custom-icon-badges.demolab.com/badge/Asp.net-434d58.svg?logo=.net&logoColor=white"></a>
@@ -102,6 +101,7 @@ href="https://alpinejs.dev"
 [![Derya Acar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deryaxacar&theme=merko&line=434d58)](https://github.com/deryaxacar/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 
 
