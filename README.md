@@ -42,7 +42,7 @@
         <img src="https://github.com/deryaxacar/deryaxacar/blob/main/social/email..light.png?raw=true" width="42" height="42">
     </picture>
 </a>
-<!-- Languages and Tools -->
+<!-- Languages and Tools
 <h3 align="left"><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=20 height=20> Languages And Tools :</h3>
 
 <p>
@@ -71,6 +71,7 @@
  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-434d58.svg?logo=github&logoColor=white"></a>
  <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-434d58.svg?logo=wordpress&logoColor=white&style=flat"></a>
 </p>
+-->
 
 <!-- color -- 525DE9-->
 
@@ -101,6 +102,7 @@ href="https://alpinejs.dev"
 [![Derya Acar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deryaxacar&theme=merko&line=434d58)](https://github.com/deryaxacar/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 
 
