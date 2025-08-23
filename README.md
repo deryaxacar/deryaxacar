@@ -4,7 +4,7 @@
 <a href="#" target="blank"> <img align="right" src="https://i.hizliresim.com/eazh7lo.png" width="200" /></a>
  -->
  
-<!-- social -->
+<!-- social
 <h3 align="left">💻 Social Media :</h3></br>
 
 &nbsp;&nbsp;&nbsp;
@@ -42,6 +42,8 @@
         <img src="https://github.com/deryaxacar/deryaxacar/blob/main/social/email..light.png?raw=true" width="42" height="42">
     </picture>
 </a>
+-->
+
 <!-- Languages and Tools
 <h3 align="left"><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=20 height=20> Languages And Tools :</h3>
 
@@ -102,6 +104,7 @@ href="https://alpinejs.dev"
 [![Derya Acar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deryaxacar&theme=merko&line=434d58)](https://github.com/deryaxacar/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 
 
