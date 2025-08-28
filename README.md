@@ -87,23 +87,22 @@ href="https://vuejs.org"
 href="https://alpinejs.dev"
 -->
 
-<!-- gif 
+<!-- gif -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
--->
 
-<!-- github stats
+<!-- github stats -->
 <div align="center">
   <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=deryaxacar&theme=dark&show_icons=true&icon_color=fff&include_all_commits=false&count_private=true&layout=compact&border_radius=0" style="height:185px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deryaxacar&theme=dark&hide_border=false&icon_color=434d58&include_all_commits=false&count_private=true&layout=compact&border_radius=0" style="height:185px;">
   </div>
 </div>
--->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 [![Derya Acar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deryaxacar&theme=merko&line=434d58)](https://github.com/deryaxacar/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 
 
