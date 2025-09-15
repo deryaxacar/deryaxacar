@@ -71,6 +71,7 @@
  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-434d58.svg?logo=linux&logoColor=white&style=flat"></a>
  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-434d58.svg?logo=github&logoColor=white"></a>
  <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-434d58.svg?logo=wordpress&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="jira" src="https://img.shields.io/badge/Jira-434d58.svg?logo=jira&logoColor=white&style=flat"></a>
 </p>
 
 <!-- color -- 525DE9-->
@@ -102,6 +103,7 @@ href="https://alpinejs.dev"
 [![Derya Acar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deryaxacar&theme=merko&line=434d58)](https://github.com/deryaxacar/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 
 
