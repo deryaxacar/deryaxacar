@@ -51,6 +51,7 @@
  <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-434d58.svg?logo=c-in-hexagon&logoColor=white"></a>
  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-434d58.svg?logo=php&logoColor=white"></a>
  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-434d58.svg?logo=javascript&logoColor=white"></a>
+ <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-434d58.svg?logo=typescript&logoColor=white"></a>
  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-434d58.svg?logo=markdown&logoColor=white&style=flat"></a>
  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-434d58.svg?logo=html5&logoColor=white"></a>
  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-434d58.svg?logo=css&logoColor=white"></a>
@@ -105,6 +106,7 @@ href="https://alpinejs.dev"
 [![Derya Acar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deryaxacar&theme=merko&line=434d58)](https://github.com/deryaxacar/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 
 
