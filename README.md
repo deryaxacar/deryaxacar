@@ -58,7 +58,7 @@
  <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-434d58.svg?logo=tailwindcss&logoColor=white"></a>
  <a href="#"><img alt="GoogleFonts" src="https://img.shields.io/badge/GoogleFonts-434d58.svg?logo=googlefonts&logoColor=white"></a>
  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-434d58.svg?logo=canva&logoColor=white&style=flat"></a>
- <a href="#"><img alt="Asp.Net" src="https://custom-icon-badges.demolab.com/badge/Asp.net-434d58.svg?logo=.net&logoColor=white"></a>
+ <a href="#"><img alt="React" src="https://custom-icon-badges.demolab.com/badge/React-434d58.svg?logo=react&logoColor=white"></a>
  <a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-434d58.svg?logo=database&logoColor=white"></a>
  <a href="#"><img alt="MariaDB" src="https://custom-icon-badges.demolab.com/badge/MariaDB-434d58.svg?logo=mariadb&logoColor=white"></a>
  <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/XAMPP-434d58.svg?logo=xampp&logoColor=white&style=flat"></a>
@@ -105,6 +105,7 @@ href="https://alpinejs.dev"
 [![Derya Acar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deryaxacar&theme=merko&line=434d58)](https://github.com/deryaxacar/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 
 
